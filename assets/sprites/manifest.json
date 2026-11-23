@@ -1,0 +1,494 @@
+{
+  "jevil_main": {
+    "file": "assets/sprites/jevil_main.png",
+    "frames": 3,
+    "fw": 42,
+    "fh": 41
+  },
+  "jevil_front": {
+    "file": "assets/sprites/jevil_front.png",
+    "frames": 8,
+    "fw": 46,
+    "fh": 48
+  },
+  "jevil_back": {
+    "file": "assets/sprites/jevil_back.png",
+    "frames": 8,
+    "fw": 46,
+    "fh": 48
+  },
+  "jevil_teleport": {
+    "file": "assets/sprites/jevil_teleport.png",
+    "frames": 4,
+    "fw": 42,
+    "fh": 41
+  },
+  "jevil_hurt_body": {
+    "file": "assets/sprites/jevil_hurt_body.png",
+    "frames": 1,
+    "fw": 43,
+    "fh": 22
+  },
+  "jevil_hurt_heads": {
+    "file": "assets/sprites/jevil_hurt_heads.png",
+    "frames": 4,
+    "fw": 29,
+    "fh": 27
+  },
+  "jevil_hurt_ring": {
+    "file": "assets/sprites/jevil_hurt_ring.png",
+    "frames": 1,
+    "fw": 9,
+    "fh": 10
+  },
+  "jevil_door": {
+    "file": "assets/sprites/jevil_door.png",
+    "frames": 3,
+    "fw": 53,
+    "fh": 114
+  },
+  "scythe_giant": {
+    "file": "assets/sprites/scythe_giant.png",
+    "frames": 1,
+    "fw": 72,
+    "fh": 67
+  },
+  "scythe_spin": {
+    "file": "assets/sprites/scythe_spin.png",
+    "frames": 1,
+    "fw": 48,
+    "fh": 45
+  },
+  "scythe_flash": {
+    "file": "assets/sprites/scythe_flash.png",
+    "frames": 1,
+    "fw": 46,
+    "fh": 43
+  },
+  "bombs": {
+    "file": "assets/sprites/bombs.png",
+    "frames": 8,
+    "fw": 23,
+    "fh": 23
+  },
+  "bullet_club_w": {
+    "file": "assets/sprites/bullet_club_w.png",
+    "frames": 1,
+    "fw": 34,
+    "fh": 34
+  },
+  "bullet_club_b": {
+    "file": "assets/sprites/bullet_club_b.png",
+    "frames": 1,
+    "fw": 34,
+    "fh": 34
+  },
+  "bullet_orbs": {
+    "file": "assets/sprites/bullet_orbs.png",
+    "frames": 3,
+    "fw": 34,
+    "fh": 34
+  },
+  "bullet_diamond_v": {
+    "file": "assets/sprites/bullet_diamond_v.png",
+    "frames": 1,
+    "fw": 33,
+    "fh": 33
+  },
+  "bullet_diamond_h": {
+    "file": "assets/sprites/bullet_diamond_h.png",
+    "frames": 1,
+    "fw": 33,
+    "fh": 32
+  },
+  "carousel_horse": {
+    "file": "assets/sprites/carousel_horse.png",
+    "frames": 1,
+    "fw": 36,
+    "fh": 29
+  },
+  "carousel_duck": {
+    "file": "assets/sprites/carousel_duck.png",
+    "frames": 1,
+    "fw": 36,
+    "fh": 29
+  },
+  "carousel_duck_everyman": {
+    "file": "assets/sprites/carousel_duck_everyman.png",
+    "frames": 1,
+    "fw": 36,
+    "fh": 29
+  },
+  "bullet_spade": {
+    "file": "assets/sprites/bullet_spade.png",
+    "frames": 1,
+    "fw": 36,
+    "fh": 34
+  },
+  "bullet_heart": {
+    "file": "assets/sprites/bullet_heart.png",
+    "frames": 1,
+    "fw": 18,
+    "fh": 18
+  },
+  "useless_bird": {
+    "file": "assets/sprites/useless_bird.png",
+    "frames": 3,
+    "fw": 20,
+    "fh": 20
+  },
+  "carousel_bg": {
+    "file": "assets/sprites/carousel_bg.png",
+    "frames": 1,
+    "fw": 700,
+    "fh": 300
+  },
+  "kris_idle": {
+    "file": "assets/sprites/kris_idle.png",
+    "frames": 6,
+    "fw": 36,
+    "fh": 38
+  },
+  "kris_attack": {
+    "file": "assets/sprites/kris_attack.png",
+    "frames": 8,
+    "fw": 63,
+    "fh": 50
+  },
+  "kris_prepare": {
+    "file": "assets/sprites/kris_prepare.png",
+    "frames": 2,
+    "fw": 63,
+    "fh": 44
+  },
+  "kris_hurt": {
+    "file": "assets/sprites/kris_hurt.png",
+    "frames": 1,
+    "fw": 63,
+    "fh": 44
+  },
+  "kris_downed": {
+    "file": "assets/sprites/kris_downed.png",
+    "frames": 1,
+    "fw": 37,
+    "fh": 44
+  },
+  "kris_act": {
+    "file": "assets/sprites/kris_act.png",
+    "frames": 11,
+    "fw": 63,
+    "fh": 44
+  },
+  "kris_item": {
+    "file": "assets/sprites/kris_item.png",
+    "frames": 8,
+    "fw": 63,
+    "fh": 44
+  },
+  "kris_defend": {
+    "file": "assets/sprites/kris_defend.png",
+    "frames": 6,
+    "fw": 35,
+    "fh": 40
+  },
+  "kris_victory": {
+    "file": "assets/sprites/kris_victory.png",
+    "frames": 9,
+    "fw": 34,
+    "fh": 37
+  },
+  "kris_pirouette": {
+    "file": "assets/sprites/kris_pirouette.png",
+    "frames": 6,
+    "fw": 36,
+    "fh": 40
+  },
+  "ralsei_intro": {
+    "file": "assets/sprites/ralsei_intro.png",
+    "frames": 9,
+    "fw": 69,
+    "fh": 47
+  },
+  "ralsei_idle": {
+    "file": "assets/sprites/ralsei_idle.png",
+    "frames": 5,
+    "fw": 50,
+    "fh": 47
+  },
+  "ralsei_act": {
+    "file": "assets/sprites/ralsei_act.png",
+    "frames": 10,
+    "fw": 69,
+    "fh": 47
+  },
+  "ralsei_prepare": {
+    "file": "assets/sprites/ralsei_prepare.png",
+    "frames": 1,
+    "fw": 77,
+    "fh": 48
+  },
+  "ralsei_attack": {
+    "file": "assets/sprites/ralsei_attack.png",
+    "frames": 6,
+    "fw": 77,
+    "fh": 48
+  },
+  "ralsei_defend": {
+    "file": "assets/sprites/ralsei_defend.png",
+    "frames": 6,
+    "fw": 69,
+    "fh": 47
+  },
+  "ralsei_downed": {
+    "file": "assets/sprites/ralsei_downed.png",
+    "frames": 1,
+    "fw": 77,
+    "fh": 47
+  },
+  "ralsei_victory": {
+    "file": "assets/sprites/ralsei_victory.png",
+    "frames": 9,
+    "fw": 74,
+    "fh": 55
+  },
+  "ralsei_hurt": {
+    "file": "assets/sprites/ralsei_hurt.png",
+    "frames": 1,
+    "fw": 50,
+    "fh": 47
+  },
+  "ralsei_sing": {
+    "file": "assets/sprites/ralsei_sing.png",
+    "frames": 3,
+    "fw": 40,
+    "fh": 47
+  },
+  "ralsei_spellready": {
+    "file": "assets/sprites/ralsei_spellready.png",
+    "frames": 4,
+    "fw": 78,
+    "fh": 47
+  },
+  "ralsei_spell": {
+    "file": "assets/sprites/ralsei_spell.png",
+    "frames": 10,
+    "fw": 56,
+    "fh": 47
+  },
+  "susie_downed": {
+    "file": "assets/sprites/susie_downed.png",
+    "frames": 3,
+    "fw": 62,
+    "fh": 36
+  },
+  "susie_idle": {
+    "file": "assets/sprites/susie_idle_r.png",
+    "frames": 4,
+    "fw": 54,
+    "fh": 45
+  },
+  "susie_attack": {
+    "file": "assets/sprites/susie_attack_r.png",
+    "frames": 6,
+    "fw": 103,
+    "fh": 61
+  },
+  "susie_prepare": {
+    "file": "assets/sprites/susie_prepare.png",
+    "frames": 2,
+    "fw": 103,
+    "fh": 71
+  },
+  "susie_act": {
+    "file": "assets/sprites/susie_act.png",
+    "frames": 12,
+    "fw": 103,
+    "fh": 71
+  },
+  "susie_defend": {
+    "file": "assets/sprites/susie_defend.png",
+    "frames": 7,
+    "fw": 55,
+    "fh": 45
+  },
+  "susie_spellready": {
+    "file": "assets/sprites/susie_spellready.png",
+    "frames": 4,
+    "fw": 82,
+    "fh": 62
+  },
+  "susie_spell": {
+    "file": "assets/sprites/susie_spell.png",
+    "frames": 9,
+    "fw": 82,
+    "fh": 77
+  },
+  "susie_item": {
+    "file": "assets/sprites/susie_item.png",
+    "frames": 6,
+    "fw": 56,
+    "fh": 66
+  },
+  "susie_hurt": {
+    "file": "assets/sprites/susie_hurt.png",
+    "frames": 1,
+    "fw": 54,
+    "fh": 45
+  },
+  "susie_victory": {
+    "file": "assets/sprites/susie_victory.png",
+    "frames": 20,
+    "fw": 60,
+    "fh": 51
+  },
+  "fx_cut": {
+    "file": "assets/sprites/fx_cut.png",
+    "frames": 3,
+    "fw": 43,
+    "fh": 44
+  },
+  "fx_hit": {
+    "file": "assets/sprites/fx_hit.png",
+    "frames": 4,
+    "fw": 41,
+    "fh": 40
+  },
+  "fx_mash": {
+    "file": "assets/sprites/fx_mash.png",
+    "frames": 6,
+    "fw": 43,
+    "fh": 44
+  },
+  "fx_slap": {
+    "file": "assets/sprites/fx_slap.png",
+    "frames": 4,
+    "fw": 44,
+    "fh": 45
+  },
+  "fx_heal": {
+    "file": "assets/sprites/fx_heal.png",
+    "frames": 4,
+    "fw": 32,
+    "fh": 32
+  },
+  "fx_spare": {
+    "file": "assets/sprites/fx_spare.png",
+    "frames": 7,
+    "fw": 16,
+    "fh": 16
+  },
+  "fx_pirouette": {
+    "file": "assets/sprites/fx_pirouette.png",
+    "frames": 1,
+    "fw": 51,
+    "fh": 10
+  },
+  "fx_hypno": {
+    "file": "assets/sprites/fx_hypno.png",
+    "frames": 1,
+    "fw": 38,
+    "fh": 38
+  },
+  "soul_red": {
+    "file": "assets/sprites/soul_red.png",
+    "frames": 1,
+    "fw": 18,
+    "fh": 18
+  },
+  "btn_fight_sel": {
+    "file": "assets/sprites/btn_fight_sel.png",
+    "frames": 1,
+    "fw": 31,
+    "fh": 32
+  },
+  "btn_fight": {
+    "file": "assets/sprites/btn_fight.png",
+    "frames": 1,
+    "fw": 31,
+    "fh": 32
+  },
+  "btn_act_sel": {
+    "file": "assets/sprites/btn_act_sel.png",
+    "frames": 1,
+    "fw": 31,
+    "fh": 32
+  },
+  "btn_act": {
+    "file": "assets/sprites/btn_act.png",
+    "frames": 1,
+    "fw": 31,
+    "fh": 32
+  },
+  "btn_item_sel": {
+    "file": "assets/sprites/btn_item_sel.png",
+    "frames": 1,
+    "fw": 31,
+    "fh": 32
+  },
+  "btn_item": {
+    "file": "assets/sprites/btn_item.png",
+    "frames": 1,
+    "fw": 31,
+    "fh": 32
+  },
+  "btn_spare_sel": {
+    "file": "assets/sprites/btn_spare_sel.png",
+    "frames": 1,
+    "fw": 31,
+    "fh": 32
+  },
+  "btn_spare": {
+    "file": "assets/sprites/btn_spare.png",
+    "frames": 1,
+    "fw": 31,
+    "fh": 32
+  },
+  "btn_defend_sel": {
+    "file": "assets/sprites/btn_defend_sel.png",
+    "frames": 1,
+    "fw": 31,
+    "fh": 32
+  },
+  "btn_defend": {
+    "file": "assets/sprites/btn_defend.png",
+    "frames": 1,
+    "fw": 31,
+    "fh": 32
+  },
+  "btn_magic_sel": {
+    "file": "assets/sprites/btn_magic_sel.png",
+    "frames": 1,
+    "fw": 31,
+    "fh": 32
+  },
+  "btn_magic": {
+    "file": "assets/sprites/btn_magic.png",
+    "frames": 1,
+    "fw": 31,
+    "fh": 32
+  },
+  "icons_kris": {
+    "file": "assets/sprites/icons_kris.png",
+    "frames": 11,
+    "fw": 32,
+    "fh": 24
+  },
+  "icons_ralsei": {
+    "file": "assets/sprites/icons_ralsei.png",
+    "frames": 11,
+    "fw": 36,
+    "fh": 28
+  },
+  "icons_susie": {
+    "file": "assets/sprites/icons_susie.png",
+    "frames": 11,
+    "fw": 34,
+    "fh": 25
+  },
+  "speech_bubble": {
+    "file": "assets/sprites/speech_bubble.png",
+    "frames": 1,
+    "fw": 137,
+    "fh": 72
+  }
+}
